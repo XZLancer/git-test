@@ -1,2 +1,6 @@
 hello£¬world
-create a new branch simpply
+<<<<<<< HEAD
+create a new branch simply
+=======
+create a new branch simply
+>>>>>>> feature
