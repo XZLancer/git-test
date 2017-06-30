@@ -1,2 +1,2 @@
 hello£¬world
-create a new branch
+create a new branch simply
